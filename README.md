@@ -5,4 +5,5 @@
  [Movingju](https://github.com/MovingJu)
  [suykr](https://github.com/suykr)
 
-
+# Requirements
+ Written in requirements.txt
